@@ -1,4 +1,4 @@
-FROM bradleybossard/docker-common-devbox
+FROM ubuntu:14.04
 MAINTAINER Bradley Bossard <bradleybossard@gmail.com>
 
 RUN apt-get update
